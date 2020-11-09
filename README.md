@@ -1,1 +1,2 @@
-# dump-and-dumpness
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
